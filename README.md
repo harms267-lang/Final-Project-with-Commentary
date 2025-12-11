@@ -1,2 +1,14 @@
-# Final-Project-with-Commentary
-Final Project for WRIT 4662W
+# Commentary
+ 
+For this final project, I chose a cover letter and a few of my writing samples I used in an internship application. I couldn't use the entire application because it was way too much content, but I was able to pull from a few sections and compile them into a separate document. Not only was it the perfect amount of words/content, but the different sections made it easy to format different chapters. I decided to use LibreOffice as my writing tool because I wanted extra practice with it, and I thought that LibreOffice's capabilities aligned well with the final project requirements. 
+  
+The first thing I did in this project was open a new LibreOffice project. I made sure to set the pages to the right-left "book" setting and set pages to six inches wide and nine inches tall. Then, I made a few page breaks to make room for my title, copyright, and table of contents. I copied and pasted my chosen document into the LibreOffice project and cleared the formatting. Now that the formatting was cleared, I could set an overarching font style for consistency (I used Times New Roman). I scrolled to the top and added a title to the first page, then copyright on the next, and a placeholder for the table of contents. 
+  
+Once these baseline edits were finished, I went into each section of my document and divided them into the desired chapters. I made sure each new chapter started on the right-hand side, and I formatted the title of each chapter as a "heading 1." I went in and made some minor edits for consistency, such as indenting at each new paragraph, making sure each new chapter started on the right-hand side, and citing my images by adding links in the captions. I added headers, footers, and page numbers next. Lastly, I inserted a table of contents that set each "heading 1" as a chapter. 
+  
+For this project, there were a few trade-offs I encountered along the way. The biggest trade-off was that I couldn't use my entire document, so I had to compromise and use only a few sections of it. Another issue I encountered was that each time I would insert a photo or formatting change, the pages would get messed up, and I would have to keep editing it to ensure each chapter started at the top of a right-hand page. 
+  
+Overall, there were a lot more pros than cons when putting together this project. One pro was that my chosen document was very transferrable to LibreOffice book interior format because of the subject and initial formatting. My original document was already divided into chapters with headings, page numbers, and paragraphs, so reformatting these elements into LibreOffice was easy. One of the cons of using LibreOffice for this project was that it easily messes up the page numbers if I delete even a few sentences, and sometimes LibreOffice wouldn't understand when I tried to move around my headings in accordance with the right-hand page requirement. 
+  
+Ultimately, I think LibreOffice was the best technology to use for this project, and I understand even more about it after this semester. I hope to continue building upon my LibreOffice skills in my future career.	
+
